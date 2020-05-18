@@ -1,5 +1,7 @@
 TOP 5 ANTIVIRUS EVASION TOOLS UPDATED 2020
 visit : https://lakshay-verma.github.io/antivirus-evasion/
+
+
 1.VEIL EVASION
 
 Veil-evasion is a free and open-source python based tools designed to generate metasploit payloads that bypass common anti-virus solutions.Veil-Evasion was designed to run on Kali Linux, but should function on any system capable of executing python scripts. Simply call Veil-Evasion from the command line, and follow the menu to generate a payload. Upon creating the payload, Veil-Evasion will ask if you would like the payload file to be converted into an executable by Pyinstaller or Py2Exe
